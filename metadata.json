@@ -1,0 +1,5 @@
+{
+  "name": "Sandbox VM",
+  "description": "Mobile app virtual machine command panel running a sandboxed Linux environment.",
+  "requestFramePermissions": []
+}
